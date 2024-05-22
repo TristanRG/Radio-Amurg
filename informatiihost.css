@@ -1,0 +1,21 @@
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    margin-top: 50px;
+}
+
+.description {
+    margin-left: 470px;
+    text-align: left;
+    font-size: 30px;
+    color: whitesmoke;
+    line-height: 1.5;
+    float: left;
+    width: 51%;
+
+}
